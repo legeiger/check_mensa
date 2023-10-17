@@ -1,0 +1,8 @@
+{
+    "EMAIL": "example1@domain1.com",
+    "PASSWORD": "",
+    "SmtpEndPoint": "securesmtp.t-online.de",
+    "SmtpEndPointPort": 465,
+    "organizer_address": "MAILTO:example3@INST.uni-stuttgart.de",
+    "IntrestMeals" : {"Linsen": "example2@domain2.com"}
+}
