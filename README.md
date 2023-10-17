@@ -1,5 +1,5 @@
 # check_mensa
-Grabs the meals from the API of Studierendenwerk
+Grabs the meals from the API of Studierendenwerk at Mensa Uni Stuttgart-Vaihingen.
 
 ## Install
     pip install -r requirements.txt
